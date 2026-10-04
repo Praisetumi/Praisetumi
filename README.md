@@ -3,11 +3,11 @@ Hi, I'm Tumisang 👋
 I'm curious about how things work and especially interested in what happens when data, technology, and problem-solving come together. I enjoy learning, exploring ideas, and building things that solve real problems.
 
 A little about me
-📊 I enjoy working with data  and finding the story behind the numbers.
-💻 I enjoy coding and exploring what can be built with technology.
-🧠 I like understanding problems before jumping straight to solutions.
-🚀 I enjoy projects that challenge me to learn something new.
-🤝 I enjoy working with people, sharing ideas, and learning from others.
+- 📊 I enjoy working with data and finding the story behind the numbers.
+- 💻 I enjoy coding and exploring what can be built with technology.
+- 🧠 I like understanding problems before jumping straight to solutions.
+- 🚀 I enjoy projects that challenge me to learn something new.
+- 🤝 I enjoy working with people, sharing ideas, and learning from others.
 
 Featured Project
 Smart Monitoring System for Electricity Distribution Infrastructure
